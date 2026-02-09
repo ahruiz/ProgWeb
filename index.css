@@ -1,0 +1,80 @@
+.banner {
+  margin: 10px;
+  width: 95%;
+  background-image: url('./cont1agua.jpg');
+  height: 350px;
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+.banner1 {
+  
+  background-image: url('./cont2comp.jpg');
+  width: 48%;
+  height: 345px;
+
+  display: flex;
+  flex-wrap: wrap;
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+
+.banner2 {
+  width: 95%;
+  background-image: url('./cont2comp.jpg');
+  height: 310px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+
+.bannerinterior {
+  margin: 20px;
+  background-image: url('./cont3holog.jpg');
+  width: 48%;
+  height: 210px;
+
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+  
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.bannerinterior1 {
+  margin: 20px;
+  background-image: url('./cont3holog.jpg');
+  width: 98%;
+  height: 250px;
+
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+  
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.bannerinterior2 {
+  margin: 20px;
+  background-image: url('./cont3holog.jpg');
+  width: 98%;
+  height: 130px;
+  
+  
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
